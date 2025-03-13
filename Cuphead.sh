@@ -13,7 +13,7 @@ source $controlfolder/control.txt
 get_controls
 
 # Variables
-GAMEDIR=/$directory/ports/cuphead
+GAMEDIR="/$directory/windows/cuphead"
 
 # CD and set permissions
 cd $GAMEDIR
